@@ -1,0 +1,16 @@
+Makine öğrenmesi,yapay zeka bölümünün önemli bir alt dalıdır ve bilgisayar sistemlerinin verilerini kullanarak,öğrenerek tecrübe edinir.
+
+Makine öğrenmesi verileri analiz etmek,desenleri tanımak ve bugünki verileri kullnaıp gelecekteki verileri tahmin etmek gibi birçok alanı kapsama altına almştır.Örneğin kedi ve 
+köpek görsellerini ayırt etme , şirketlerin üretim yapmak için talep tahminlemesi ve  mail filtreleri olarak makine öğrenmesinin kullanım alanlarını örneklendirerek gösterebiliriz.
+
+Makine öğrenmesi genellikle denetimli öğrenme, denetimsiz öğrenme, yarı denetimli öğrenme ve pekiştirmeli öğrenme olarak dört ayrı örğenme tarzı altında gruplandırılabilir.Denetimli
+öğrenme Denetimli öğrenme, etiketlenmiş ve tanımlı verilerin kullanıldığı bir yöntemdir. Bu verilerde girdi ve çıktılar belirtilir. Örneğin, el yazısı rakamların görüntüleriyle ilişkili 
+açıklamalar sağlanır. Denetimli öğrenme algoritması, yeterli örnek veriyle rakamların piksel ve şekil özelliklerini tanıyabilir ve farklı rakamları ayırt edebilir.Denetimsiz öğrenme algoritmaları, 
+etiketsiz verileri kullanarak girdiler arasındaki düzenleri ve kategorileri tespit edebilir. Örneğin, haber yazılarını genel kategorilere gruplandırabilir veya perakende sektöründe müşteri 
+satın alma düzenlerini analiz ederek ilişkileri keşfedebilir.Yarı denetimli öğrenme, hem etiketli hem de etiketsiz verilerin bir arada kullanıldığı bir yöntemdir. İlk olarak etiketli 
+verilerle bir model kısmen eğitilir, sonra da etiketsiz verileri etiketleyerek kendini tamamlar. Son olarak, bu karma veri üzerinde model yeniden eğitilir.Pekiştirmeli öğrenme, algoritmanın ödüllerle
+ilişkilendirilen farklı adımları geçerek toplam ödülü maksimize etmeyi hedefleyen bir yöntemdir. Özellikle video oyunlarında kullanılan pekiştirmeli öğrenme algoritmaları, insan rakipleriyle rekabet 
+ederek oyunlarda etkileyici sonuçlar elde etmiştir.
+
+Makine öğrenmesi için kullanılan en yaygın algoritmalar lineer regresyon,karar ağaçları,random forest,Neural net vb. gibi birçok algoritmik yöntem bulunmaktadır.Bu algoritmalar eldeki verileri 
+analiz ederek gelecekteki verileri tahmin etmeye çalışlırlar.
