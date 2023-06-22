@@ -37,7 +37,7 @@
 #Sonuç olarak [2, 6, 16, 18, 22, 27] şeklinde sıralanır.
 
 
-#Big-O   O(n^2)
+#Big-O  O(n^2)
 
 
 
